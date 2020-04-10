@@ -1,0 +1,1 @@
+num_manager = 10
